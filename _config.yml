@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "최수연 & 김지혜"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "퍼듀프로젝트 기록 블로그"
   location         : "Somewhere"
   email            :
   links:
