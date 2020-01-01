@@ -20,7 +20,7 @@ title                    : "Purdue Project Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김지혜 & 최수연"
-description              : "퍼듀 프로젝트 기록 블로그"
+description              : "퍼듀 프로젝트 및 소소한 생활의 기록"
 url                      : "https://SuyeonChoi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,13 +109,13 @@ analytics:
 author:
   name             : "최수연 & 김지혜"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "퍼듀프로젝트 기록 블로그"
-  location         : "Somewhere"
+  bio              : "퍼듀 프로젝트 및 소소한 생활의 기록f"
+  location         : "West Lafayette, Indiana"
   email            :
   links:
-    - label: "Email"
+    - label: "Suyeon's Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: tndus970120@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -130,7 +130,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/17277_97/"
 
 # Site Footer
 footer:
