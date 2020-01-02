@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Project"
-    url: /project/
+    url: /categories/project/
   - title: "Suyeon's Page"
     url: /suyeon/
   - title: "Jihye's Page"
-    url: /jihye/
+    url: /categories/jihye/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
