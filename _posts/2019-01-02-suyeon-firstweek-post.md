@@ -17,7 +17,7 @@ categories: Suyeon'sPage
 </div>
 아이폰11 광각으로 찍은 거실, 부엌, 나의 방!  
 
-<img width="500" src= "https://user-images.githubusercontent.com/28749734/71656523-85256f00-2d09-11ea-9a97-8ac2e0a2c0df.jpg">  
+<img width="250" src= "https://user-images.githubusercontent.com/28749734/71656523-85256f00-2d09-11ea-9a97-8ac2e0a2c0df.jpg">  
 유심 맞추기...1달 가격..비바카드로 해야 수수료 안붙는데 딴카드로 해서 수수료 천원이나 붙었다,,  
 이 금액 외의 activation fee라고 usim 개통을 위해 $10.69도 현금으로 지출했다  
 
