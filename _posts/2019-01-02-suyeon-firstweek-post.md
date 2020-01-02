@@ -8,5 +8,5 @@ categories: Suyeon'sPage
 
 12/30 ICN -> ORD  
 
-![screenshot](./img/suyeon/first-week/KakaoTalk_20200102_021637285.jpg)
+![screenshot](././img/suyeon/first-week/KakaoTalk_20200102_021637285.jpg)
 
