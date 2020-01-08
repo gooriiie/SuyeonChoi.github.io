@@ -27,13 +27,14 @@ Three Big Goals
   - Should commands be entered into the robot at once or sequentially?  -This should be considered in terms of direct performance.  
 
 ### More details about the Q&A  
-  - Should commands be entered into the robot at once or sequentially?  -This should be considered in terms of direct performance.  
+  - Should commands be entered into the robot at once or sequentially?    
   Think a robot as a human. Telling the final location would be more convenient than telling the next destination in sequence. 
   But where security is high, it may be another problem.
     
 ### This Week final Goal
 Let the robot go to the GPS location we want in a flat, clear space.  
-Consideration  
+
+Considerations
 1. getting gps point
 2. calculate error
 3. navigating next
