@@ -8,6 +8,7 @@ categories: Project
 <img width="350" src="https://user-images.githubusercontent.com/28749734/71982249-00978c80-31f2-11ea-9ef6-1e8289ca1a5f.jpg")>  
 
 company : "explotrain.com"  
+
 Three Big Goals
 1. maintaing network access 
 2. fire at will
