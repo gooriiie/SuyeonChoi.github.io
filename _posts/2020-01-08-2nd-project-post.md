@@ -39,3 +39,5 @@ Considerations
 2. calculate error
 3. navigating next
 
+  
+written by. Suyeon Choi
