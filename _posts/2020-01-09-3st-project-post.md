@@ -2,7 +2,7 @@
 title: "20200109-3st-project-post"
 date: 2020-01-09 
 categories: Project
----
+---  
 All the people whose project topic is "Targeting AI Robot", including our team, didn't know exactly about this topic.  
 Because we only know about blueprint of this topic.  
 Professor and a company which give us this topic didn't let us know exactly.  
