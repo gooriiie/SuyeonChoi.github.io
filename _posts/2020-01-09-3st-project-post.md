@@ -14,7 +14,7 @@ So we read them, but in fact we didn't like method of progress of this project.
 We talked this to our mentors, and in conclusion we decided we have a meeting tomorrow with professor and mentors.    
 
 And mentors said that we'd like to think about what we want to do.  
-(for example, what is sub-topic we want)  
+(for example, what is a detailed topic we want)  
 So we thought about this, reading many documents.
 
 
