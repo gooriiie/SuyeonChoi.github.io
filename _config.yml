@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "UTF-8"
-title                    : "Purdue Project Blog"
+title                    : "Targeting AI Robot"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "김지혜 & 최수연"
+name                     : "Jihye Kim & Suyeon Choi"
 description              : "퍼듀 프로젝트 및 소소한 생활의 기록"
 url                      : "https://SuyeonChoi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "최수연 & 김지혜"
+  name             : "Suyeon Choi & Jihye Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "퍼듀 프로젝트 및 소소한 생활의 기록"
+  bio              : "Daily Reports about the project and more"
   location         : "West Lafayette, Indiana"
   email            :
   links:
