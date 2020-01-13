@@ -1,6 +1,6 @@
 ---
-title: "2020/01/10 4th post"
-date: 2020-01-10 
+title: "2020/01/09 4th post"
+date: 2020-01-09 
 categories: Project
 --- 
 ### Division for starting a project  
