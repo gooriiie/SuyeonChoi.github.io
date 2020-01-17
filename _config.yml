@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "UTF-8"
-title                    : "Targeting AI Robot"
+title                    : "T-AI BOT"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jihye Kim & Suyeon Choi"
-description              : "퍼듀 프로젝트 및 소소한 생활의 기록"
+description              : "Daily Reports about the project and more"
 url                      : "https://SuyeonChoi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ author:
   links:
     - label: "Suyeon's Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:tndus970120@naver.com
+      #url: mailto:tndus970120@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -130,7 +130,7 @@ author:
       # url: "https://github.com/"
     - label: "Suyeon's Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/17277_97/"
+      #url: "https://instagram.com/17277_97/"
 
 # Site Footer
 footer:
