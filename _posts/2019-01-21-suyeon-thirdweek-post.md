@@ -57,7 +57,7 @@ KSW에서 자체에서도 AI특강을 해주는 상황이고 이 과목은 교�
 
 ### 1/20 내 생일~!~!
 월요일이지만 킹데이라서 시카고간 사람들 빼고 모여서 술마셔따  
-새해 맞이 한 이후로 이렇게 마시는거 정말 두번째!
+새해 맞이 한 이후로 이렇게 마시는거 정말 두번째!  
 <img width="400" src="https://user-images.githubusercontent.com/28749734/72783476-8523db00-3bf4-11ea-8bfc-fdf61fb33937.jpg">  
 룸메덜 실력 칭찬햏ㅎㅎㅎ  
 <img width="400" src="https://user-images.githubusercontent.com/28749734/72783477-8523db00-3bf4-11ea-8ddf-27041658ee99.jpg">  
