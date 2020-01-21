@@ -46,7 +46,6 @@ categories: Suyeon'sPage
 대사도 별로 없고,,,ㅠㅠㅠㅠㅠ  
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/28749734/72780568-2313a780-3bed-11ea-8b14-0a2fafae675d.jpg">
-  <img width="100" src="https://user-images.githubusercontent.com/28749734/72780569-2313a780-3bed-11ea-90b2-ce88aa4f2256.jpg">
 </div>  
 저녁 영화관은 예쁜데 어둡다,,, 뒤돌면 암흑....  
 담부터 영화는 주말 낮에 봐야징  
@@ -61,12 +60,14 @@ categories: Suyeon'sPage
 ### 1/11 티피카누몰! Tipp Mall
 몬가... 구리지만 나름 찾아보면 찐템을 발견할 수 있는 티피카누..  
 하지만 쇼핑은 따로 여행가서 하는게 나을거 같다..! 그다지 싼 느낌은 아니다.. 잘찾아본 찐템 빼면  
+<img width="200" src="https://user-images.githubusercontent.com/28749734/72780551-2149e400-3bed-11ea-8925-681b3f9ee050.jpg">  
+이제 코렉 열시미 다녀야지 운동 열시미 해야지  
 <div>
-  <img width="200" src="https://user-images.githubusercontent.com/28749734/72780551-2149e400-3bed-11ea-8925-681b3f9ee050.jpg">
-  <img width="200" src="https://user-images.githubusercontent.com/28749734/72780553-2149e400-3bed-11ea-9361-290478fa428d.jpg">
+  <img width="300" src="https://user-images.githubusercontent.com/28749734/72780553-2149e400-3bed-11ea-9361-290478fa428d.jpg">
+  <img width="200" src="https://user-images.githubusercontent.com/28749734/72780554-2149e400-3bed-11ea-8ed1-95efaad0e843.jpg">   
 </div>  
-세포라도 있다
-<img width="400" src="https://user-images.githubusercontent.com/28749734/72780554-2149e400-3bed-11ea-8ed1-95efaad0e843.jpg">  
+세포라도 있다  
+<img width="300" src="https://user-images.githubusercontent.com/28749734/72780555-21e27a80-3bed-11ea-8cdf-8a214e7e79be.jpg">  
 앤티앤스는 한국이 더 마싯어
 <div>
   <img width="200" src="https://user-images.githubusercontent.com/28749734/72780549-2149e400-3bed-11ea-820c-bce1498ccbde.jpg">
