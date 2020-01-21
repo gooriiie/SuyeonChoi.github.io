@@ -23,7 +23,7 @@ categories: Suyeon'sPage
   
 <div>
   <img width="200" src="https://user-images.githubusercontent.com/28749734/72780560-21e27a80-3bed-11ea-9970-64bd46519620.jpg">
-  <img width="200" src="https://user-images.githubusercontent.com/28749734/72780555-21e27a80-3bed-11ea-8cdf-8a214e7e79be.jpg">
+  <img width="200" src="https://user-images.githubusercontent.com/28749734/72780556-21e27a80-3bed-11ea-9bab-0a5cc31e878d.jpg">
 </div>  
 근처 월마트에서 장보는건 일상이 되어보려따  
 
