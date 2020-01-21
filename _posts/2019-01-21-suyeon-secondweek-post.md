@@ -1,5 +1,5 @@
 ---
-title: "1월 둘째주 일상:영화보기&"
+title: "1월 둘째주 일상:영화보기&티피카누몰&"
 date: 2019-01-21
 categories: Suyeon'sPage
 ---
