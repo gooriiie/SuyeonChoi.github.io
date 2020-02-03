@@ -1,0 +1,10 @@
+---
+title: "2020/02/03 9th post"
+date: 2020-02-03  
+categories: Project
+--- 
+
+We asked for advise to Dana, a mentor eminent in Machine Learning technology.    
+On this advice, we activated the raspberry pi and pi camera.  
+Then we are testing SSD, MASK R-CNN, Faster R-CNN and Fast R-CNN for object detection.    
+After this tests, we will work YOLO v3.  
