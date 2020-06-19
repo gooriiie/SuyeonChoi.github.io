@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "UTF-8"
-title                    : "T-AI BOT"
+title                    : "Suyeon Choi"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jihye Kim & Suyeon Choi"
-description              : "Daily Reports about the project and more"
+name                     : "Suyeon Choi"
+description              : "Projects Blog"
 url                      : "https://SuyeonChoi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Suyeon Choi & Jihye Kim"
+  name             : "Suyeon Choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Daily Reports about the project and more"
-  location         : "West Lafayette, Indiana"
+  bio              : "About my projects & study"
+  location         : 
   email            :
   links:
     - label: "Suyeon's Email"
