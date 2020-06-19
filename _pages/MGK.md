@@ -1,6 +1,6 @@
 ---
 title: "MGK"
-layout: categories
+layout: category
 permalink: /categories/mgk/
 author_profile: true
 taxonomy: MGK
