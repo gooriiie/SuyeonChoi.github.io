@@ -1,11 +1,9 @@
 # main links
 main:
-  - title: "Project"
-    url: /categories/project/
-  - title: "Suyeon's Page"
-    url: /categories/suyeon/
-  - title: "Jihye's Page"
-    url: /categories/jihye/
+  - title: "Purdue"
+    url: /categories/inpurdue/
+  - title: "MGK"
+    url: /categories/mgk/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
