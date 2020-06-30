@@ -28,7 +28,7 @@ categories: MGK
  
 + 1일차 진행에 대한 개인 블로그  
   - [박지우](https://jwpark6.github.io/day1/)  
-  - [조윤희](https://uni2237.github.io/posts/MGC01/)  
+  - [조윤희](https://uni2237.github.io/mgc/MGC01/)  
   - [최수연](https://suyeonchoi.github.io/mgk/second-mgk-post/)  
   - [한승훈](https://gooriiie.github.io/%EB%AA%A8%EA%B0%81%EC%BD%94-%EB%AA%A9%ED%91%9C%EC%99%80-%ED%9A%8C%EA%B3%A0/)  
   
