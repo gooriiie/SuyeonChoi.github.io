@@ -9,7 +9,7 @@ categories: MGK
 ### 2일차 진행정보  
 ![KakaoTalk_20200706_202214013](https://user-images.githubusercontent.com/26339800/86588609-fc90cf80-bfc6-11ea-839e-0d5aa4fb4c59.png)
 
-+ 2020년 6월 29일 20:00 - 23:00  
++ 2020년 7월 06일 20:00 - 23:00  
 + Zoom은 동시 화면 공유 확인이 불편하여 Google Meet으로 대체하기로 함  
 
 
@@ -26,7 +26,7 @@ categories: MGK
   - 최수연: 알고리즘 한문제 해결 / 스프링 개발환경 구축 중 / 리액트 강의 1강 수강  
   - 한승훈:  인프런 HTML 기초 강의 수강 / VScode 설치와 기본적인 tag 활용하여 웹페이지 생성  
  
-+ 1일차 진행에 대한 개인 블로그  
++ 2일차 진행에 대한 개인 블로그  
   - [박지우](https://jwpark6.github.io/day1/)  
   - [조윤희](https://uni2237.github.io/mgc/MGC01/)  
   - [최수연](https://suyeonchoi.github.io/mgk/second-mgk-post/)  
