@@ -1,13 +1,13 @@
 ---
-title: "[성찜당] 첫번째 모각코"
+title: "[성찜당] 두번째 모각코"
 date: 2020-07-06
 categories: MGK
 --- 
 
-작성자: 최수연  
+작성자: 조윤희
 
 ### 2일차 진행정보  
-![image](https://user-images.githubusercontent.com/28749734/86019637-cd77dc80-ba61-11ea-91a2-43391ff44d36.png)  
+![KakaoTalk_20200706_202214013](https://user-images.githubusercontent.com/26339800/86588609-fc90cf80-bfc6-11ea-839e-0d5aa4fb4c59.png)
 
 + 2020년 6월 29일 20:00 - 23:00  
 + Zoom은 동시 화면 공유 확인이 불편하여 Google Meet으로 대체하기로 함  
