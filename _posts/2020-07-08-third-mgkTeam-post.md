@@ -11,6 +11,9 @@ categories: MGK
 
 + 2020년 7월 08일 20:15 - 23:15  
 + 개인 사정으로 인한 원래 시간보다 15분 뒤 모임 시작
+![KakaoTalk_20200708_203627095](https://user-images.githubusercontent.com/67006945/86915468-fc2a3d00-c15c-11ea-9cae-59bd974a555a.jpg)
+![Uploading KakaoTalk_20200708_203755159.png…]()
+
 
 ### 목표 및 회고  
 + 목표  
