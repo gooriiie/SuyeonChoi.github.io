@@ -1,7 +1,9 @@
 ---
 title: "[성찜당] 첫번째 모각코"
 date: 2020-06-29
-categories: MGK
+categories: 
+ - MGK
+ - 성찜당
 --- 
 
 작성자: 최수연  
