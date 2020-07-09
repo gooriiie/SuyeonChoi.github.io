@@ -1,7 +1,10 @@
 ---
 title: "2020 하계 모각코 계획"
 date: 2020-06-19
-categories: MGK
+categories: 
+ - MGK
+ - 성찜당
+ - 
 --- 
 
 ### 팀 구성 및 활동 기간
