@@ -1,7 +1,9 @@
 ---
 title: "2020년 7월 06일 모각코 2일차"
 date: 2020-07-06
-categories: MGK
+categories: 
+ - MGK
+ - 모각코
 --- 
 
 ### 2020년 7월 06일 모각코 2일차 진행  

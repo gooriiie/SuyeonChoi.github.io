@@ -1,7 +1,9 @@
 ---
 title: "2020년 6월 29일 모각코 1일차"
 date: 2020-06-29
-categories: MGK
+categories: 
+ - MGK
+ - 모각코
 --- 
 
 ### 2020년 6월 29일 모각코 1일차 진행

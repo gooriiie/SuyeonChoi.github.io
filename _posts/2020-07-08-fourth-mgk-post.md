@@ -1,7 +1,9 @@
 ---
 title: "2020년 7월 08일 모각코 3일차"
 date: 2020-07-08
-categories: MGK
+categories: 
+ - MGK
+ - 모각코
 --- 
 
 ### 2020년 7월 08일 모각코 3일차 진행  
