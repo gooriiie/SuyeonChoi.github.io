@@ -1,7 +1,10 @@
 ---
 title: "[성찜당] 세번째 모각코"
 date: 2020-07-08
-categories: MGK
+
+categories: 
+ - MGK
+ - 성찜당
 --- 
 
 작성자: 박지우
