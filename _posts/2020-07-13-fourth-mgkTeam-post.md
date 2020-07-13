@@ -43,7 +43,7 @@ categories:
         2. 알고리즘 : <스택, 큐> 관련 백준 문제 2개 풀이  
    
    
-+ 3일차 진행에 대한 개인 블로그  
++ 4일차 진행에 대한 개인 블로그  
   - [박지우](https://jwpark6.github.io/day4/)  
   - [조윤희](https://uni2237.github.io/mgc/mgc04/)  
   - [최수연](https://suyeonchoi.github.io/mgk/%EB%AA%A8%EA%B0%81%EC%BD%94/fifth-mgk-post/)  
