@@ -24,11 +24,11 @@ categories:
   - 조윤희:   
         1. 파이썬 기반의 OpenCV 강의 듣기(4강,5강,6강)     
   - 최수연:   
-        1. 자료구조 복습하기(이진트리)
+        1. 자료구조 복습하기(이진트리)     
         2. 졸업프로젝트 데이터베이스 스키마 생성하기         
         3. 알고리즘 1문제 풀기
   - 한승훈:   
-        1. 인프런 알고리즘 강의 <DFS> 부분 수강 후 개념 정리   
+        1. 인프런 알고리즘 강의 <DFS> 부분 수강 후 개념 정리    
         2. 백준에서 <DFS> 2문제 풀기(난이도 : 실버 4이상)
  
  
@@ -50,5 +50,5 @@ categories:
 + 8일차 진행에 대한 개인 블로그  
   - [박지우](https://jwpark6.github.io/day8/)  
   - [조윤희](https://uni2237.github.io/mgc/mgc08/)  
-  - [최수연](https://suyeonchoi.github.io/mgk/%EB%AA%A8%EA%B0%81%EC%BD%94/eight-mgk-post/)  
+  - [최수연](https://suyeonchoi.github.io/mgk/%EB%AA%A8%EA%B0%81%EC%BD%94/nineth-mgk-post/)  
   - [한승훈](https://gooriiie.github.io/%EB%AA%A8%EA%B0%81%EC%BD%94-8%EC%A3%BC%EC%B0%A8-%EB%AA%A9%ED%91%9C%EC%99%80-%ED%9A%8C%EA%B3%A0/)
